@@ -4,5 +4,6 @@ public class Geladeira {
     
     public String Marca;
     public String Capacidade;
+    public String Tamanho;
     
 }
